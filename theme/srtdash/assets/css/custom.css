@@ -1,0 +1,38 @@
+a {
+    color: #7801ff;
+}
+
+.gsc-control-cse {
+    padding:5px 0px 0px 0px;
+}
+
+.gsc-search-box tr th,
+.gsc-search-box tr td {
+    border-top: none!important;
+}
+
+.gsc-search-button-v2 {
+    padding: 14px 14px;
+}
+
+.no-padding .list-group-item:first-child {
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+}
+
+.ranking_circle {
+    float: left;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    margin-right:5px;
+}
+
+.horizontal-menu ul li.active {
+    border-bottom: 4px solid #007BFF;
+    border-radius: 3px;
+}
